@@ -6,6 +6,12 @@ import { SimpleSchema } from 'meteor/aldeed:simple-schema';
 import { Todos } from '../todos.js';
 import { Lists } from '../../lists/lists.js';
 
+
+Meteor.publish('todos', function todosPublication() {
+  return Todos.find();
+});
+
+
 Meteor.publishComposite('todos.inList', function todosInList(listId) {
   new SimpleSchema({
     listId: { type: String },
