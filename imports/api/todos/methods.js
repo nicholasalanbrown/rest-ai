@@ -43,7 +43,8 @@ var something =
 }
 
 Meteor.methods({
-  helloWorld: function () {
+  helloWorld: function (response) {
+    console.log(response);
     console.log('hello world!');
     return something;
   }
