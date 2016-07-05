@@ -42,11 +42,22 @@ var something =
   "source": "DuckDuckGo"
 }
 
+let getBalance = function (account) {
+  let response  =
+  {
+    "speech": "$500",
+    "displayText": "$500",
+    "data": {},
+    "contextOut": []
+  }
+  return "$500";
+}
+
+
 Meteor.methods({
   webhook: function (response) {
-    console.log(response.result.action);
-    console.log('hello world!');
-    return something;
+    console.log(response);
+    return getBalance();
   }
 });
 
