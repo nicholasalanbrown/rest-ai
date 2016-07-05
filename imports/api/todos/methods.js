@@ -50,7 +50,7 @@ let getBalance = function (account) {
     "data": {},
     "contextOut": []
   }
-  return "$500";
+  return response;
 }
 
 
