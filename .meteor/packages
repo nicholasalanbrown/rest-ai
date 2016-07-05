@@ -15,7 +15,6 @@ session
 # standard libraries
 jquery
 underscore
-less
 
 # ui
 static-html
