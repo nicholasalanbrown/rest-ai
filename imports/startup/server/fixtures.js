@@ -1,6 +1,8 @@
 import { Meteor } from 'meteor/meteor';
 import { Lists } from '../../api/lists/lists.js';
 import { Todos } from '../../api/todos/todos.js';
+import { Transactions } from '../../api/transactions/transactions.js';
+let mintData = require('./mint-data.json');
 
 // if the database is empty on server start, create some sample data.
 Meteor.startup(() => {
@@ -62,6 +64,13 @@ Meteor.startup(() => {
 
         timestamp += 1; // ensure unique timestamp.
       });
+    });
+  }
+
+  if (Transactions.find().count() === 0) {
+
+    mintData.forEach((transaction) => {
+      const transactionId = Transactions.insert(transaction);
     });
   }
 });
