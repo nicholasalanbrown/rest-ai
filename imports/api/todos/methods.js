@@ -44,7 +44,7 @@ var something =
 
 Meteor.methods({
   webhook: function (response) {
-    console.log(response);
+    console.log(response.result.action);
     console.log('hello world!');
     return something;
   }
