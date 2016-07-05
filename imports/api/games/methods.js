@@ -4,33 +4,7 @@ import { ValidatedMethod } from 'meteor/mdg:validated-method';
 import { SimpleSchema } from 'meteor/aldeed:simple-schema';
 import { DDPRateLimiter } from 'meteor/ddp-rate-limiter';
 
-import { Todos } from './todos.js';
-import { Lists } from '../lists/lists.js';
-
-export const insert = new ValidatedMethod({
-  name: 'todos.insert',
-  validate: new SimpleSchema({
-    listId: { type: String },
-    text: { type: String },
-  }).validator(),
-  run({ listId, text }) {
-    const list = Lists.findOne(listId);
-
-    if (list.isPrivate() && list.userId !== this.userId) {
-      throw new Meteor.Error('todos.insert.accessDenied',
-        'Cannot add todos to a private list that is not yours');
-    }
-
-    const todo = {
-      listId,
-      text,
-      checked: false,
-      createdAt: new Date(),
-    };
-
-    Todos.insert(todo);
-  },
-});
+import { Games } from './games.js';
 
 var something =
 
@@ -43,7 +17,7 @@ var something =
 }
 
 Meteor.methods({
-  webhook: function (response) {
+  helloWorld: function (response) {
     console.log(response);
     console.log('hello world!');
     return something;
