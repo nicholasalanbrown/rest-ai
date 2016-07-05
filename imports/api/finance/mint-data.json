@@ -1,0 +1,1114 @@
+[
+  {
+    "date": "7/5/16",
+    "description": "Banfield Pet Hospital",
+    "originalDescription": "BANFIELD WELLNESS PLAN PORTLAND OR US",
+    "amount": 28.95,
+    "type": "debit",
+    "category": "Veterinary"
+  },
+  {
+    "date": "7/5/16",
+    "description": "Stripe Transfer Future",
+    "originalDescription": "STRIPE TRANSFER~ Future Amount: 23.97 ~ Tran: DDIR",
+    "amount": 23.97,
+    "type": "credit",
+    "category": "Transfer"
+  },
+  {
+    "date": "7/5/16",
+    "description": "Betterment Sec Transfer",
+    "originalDescription": "BETTERMENT SEC TRANSFER",
+    "amount": 277.32,
+    "type": "debit",
+    "category": "Transfer"
+  },
+  {
+    "date": "7/5/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 32.23,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "7/5/16",
+    "description": "Capital One Crcardpmt",
+    "originalDescription": "CAPITAL ONE CRCARDPMT",
+    "amount": 518.72,
+    "type": "debit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "7/1/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 5.25,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "7/1/16",
+    "description": "Free Childre Direct",
+    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 2356.29 ~ Tran:",
+    "amount": 2356.29,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "6/30/16",
+    "description": "ACS Education Services",
+    "originalDescription": "ACS LOAN PYMT",
+    "amount": 116.05,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "6/30/16",
+    "description": "ACS Education Services",
+    "originalDescription": "ACS LOAN PYMT",
+    "amount": 63.64,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "6/30/16",
+    "description": "Huge Llc Dir",
+    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 3257.58 ~ Tran: DDIR",
+    "amount": 3257.58,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "6/30/16",
+    "description": "Nicholas A Brown",
+    "originalDescription": "NICHOLAS A BROWN (Ally Interest Checking XXXXXX8744) sent mo",
+    "amount": 250,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/29/16",
+    "description": "Hulu",
+    "originalDescription": "HLU*HULU 30609388-U HULU.COM/BILL CA US",
+    "amount": 7.99,
+    "type": "debit",
+    "category": "Movies & DVDs"
+  },
+  {
+    "date": "6/29/16",
+    "description": "Venmo Cashout",
+    "originalDescription": "VENMO-0 CASHOUT",
+    "amount": 42,
+    "type": "credit",
+    "category": "Income"
+  },
+  {
+    "date": "6/29/16",
+    "description": "Pai Iso 52 Jay Street",
+    "originalDescription": "PAI ISO 52 JAY ST BROOKLYN NY US",
+    "amount": 61.99,
+    "type": "debit",
+    "category": "Cash & ATM"
+  },
+  {
+    "date": "6/29/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 51.01,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/28/16",
+    "description": "Stripe Transfer Future",
+    "originalDescription": "STRIPE TRANSFER~ Future Amount: 23.97 ~ Tran: ACHDW",
+    "amount": 23.97,
+    "type": "debit",
+    "category": "Transfer"
+  },
+  {
+    "date": "6/28/16",
+    "description": "Hello Digit Savings",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 30,
+    "type": "credit",
+    "category": "Income"
+  },
+  {
+    "date": "6/28/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 77.87,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/28/16",
+    "description": "American Express",
+    "originalDescription": "AMEX EPayment ACH PMT",
+    "amount": 4694.75,
+    "type": "debit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "6/27/16",
+    "description": "Transfer from Online Savings Account",
+    "originalDescription": "Internet transfer from Online Savings account XXXXXX3372",
+    "amount": 4980.77,
+    "type": "credit",
+    "category": "Transfer"
+  },
+  {
+    "date": "6/27/16",
+    "description": "Hello Digit Savings",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 195,
+    "type": "credit",
+    "category": "Income"
+  },
+  {
+    "date": "6/24/16",
+    "description": "Dam Realty Corp.",
+    "originalDescription": "ADAM REALTY CORP ONLINE PMT~ Future Amount: 2280 ~ Tran: ACH",
+    "amount": 2280,
+    "type": "debit",
+    "category": "Home Improvement"
+  },
+  {
+    "date": "6/24/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 35.36,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/24/16",
+    "description": "Stripe Transfer Future",
+    "originalDescription": "STRIPE TRANSFER~ Future Amount: 71.91 ~ Tran: DDIR",
+    "amount": 71.91,
+    "type": "credit",
+    "category": "Transfer"
+  },
+  {
+    "date": "6/23/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 34.11,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/23/16",
+    "description": "Stripe Transfer Future",
+    "originalDescription": "STRIPE TRANSFER~ Future Amount: 95.88 ~ Tran: DDIR",
+    "amount": 95.88,
+    "type": "credit",
+    "category": "Transfer"
+  },
+  {
+    "date": "6/22/16",
+    "description": "Stripe Transfer Future",
+    "originalDescription": "STRIPE TRANSFER~ Future Amount: 95.88 ~ Tran: DDIR",
+    "amount": 95.88,
+    "type": "credit",
+    "category": "Transfer"
+  },
+  {
+    "date": "6/22/16",
+    "description": "Consolidated Edison",
+    "originalDescription": "CON ED OF NY INTELL CK",
+    "amount": 58.51,
+    "type": "debit",
+    "category": "Utilities"
+  },
+  {
+    "date": "6/21/16",
+    "description": "Pai Iso 52 Jay Street",
+    "originalDescription": "PAI ISO 52 JAY ST BROOKLYN NY US",
+    "amount": 41.99,
+    "type": "debit",
+    "category": "Cash & ATM"
+  },
+  {
+    "date": "6/21/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 13.13,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/20/16",
+    "description": "Navi Ed Serv",
+    "originalDescription": "NAVI  ED SERV PP STUDNTLOAN",
+    "amount": 1053.33,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "6/20/16",
+    "description": "Check 1187",
+    "originalDescription": "Check Paid #1187",
+    "amount": 200,
+    "type": "debit",
+    "category": "Check"
+  },
+  {
+    "date": "6/20/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 11.67,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/19/16",
+    "description": "Tyrellstown Dublin Ie",
+    "originalDescription": "TYRELLSTOWN DUBLIN IE",
+    "amount": 45.63,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/18/16",
+    "description": "Germany Munich De",
+    "originalDescription": "Germany Munich DE",
+    "amount": 22.82,
+    "type": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "6/17/16",
+    "description": "Stadtsparkasse Muenche Fl",
+    "originalDescription": "STADTSPARKASSE MUENCHE FL 131 DE",
+    "amount": 228.06,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/17/16",
+    "description": "Free Childre Direct",
+    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 4154.74 ~ Tran:",
+    "amount": 4154.74,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "6/16/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 23.71,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/15/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 12.31,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/15/16",
+    "description": "Huge Llc Dir",
+    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 3593.17 ~ Tran: DDIR",
+    "amount": 3593.17,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "6/14/16",
+    "description": "Transact Bahnhof Mittenwald",
+    "originalDescription": "Transact Bahnhof Mittenwald DE",
+    "amount": 316.14,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/13/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 36.96,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/12/16",
+    "description": "Sparkasse Bamberg Bahnhof",
+    "originalDescription": "SPARKASSE BAMBERG BAHNHOF DE",
+    "amount": 228.66,
+    "type": "debit",
+    "category": "Cash & ATM"
+  },
+  {
+    "date": "6/10/16",
+    "description": "Interest Paid",
+    "originalDescription": "Interest Paid",
+    "amount": 0.67,
+    "type": "credit",
+    "category": "Interest Income"
+  },
+  {
+    "date": "6/10/16",
+    "description": "ATM Fee Refund",
+    "originalDescription": "ATM Fee Reimbursement",
+    "amount": 1.5,
+    "type": "credit",
+    "category": "ATM Fee"
+  },
+  {
+    "date": "6/9/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 36.96,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/8/16",
+    "description": "Spk Mittelmosel Eife",
+    "originalDescription": "SPK MITTELMOSEL - EIFE TREIS-K. DE",
+    "amount": 345.72,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/7/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 97.5,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/6/16",
+    "description": "Spk Mittelmosel Eife",
+    "originalDescription": "SPK MITTELMOSEL - EIFE ROEMERSTR DE",
+    "amount": 286.56,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/6/16",
+    "description": "Banfield Pet Hospital",
+    "originalDescription": "BANFIELD WELLNESS PLAN 08668947927 OR US",
+    "amount": 28.95,
+    "type": "debit",
+    "category": "Veterinary"
+  },
+  {
+    "date": "6/6/16",
+    "description": "National Grid",
+    "originalDescription": "NATIONAL GRID NY UTILITYPAY~ Future Amount: 16.98 ~ Tran: AC",
+    "amount": 16.98,
+    "type": "debit",
+    "category": "Utilities"
+  },
+  {
+    "date": "6/6/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 25.94,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/6/16",
+    "description": "Capital One Crcardpmt",
+    "originalDescription": "CAPITAL ONE CRCARDPMT",
+    "amount": 182.63,
+    "type": "debit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "6/4/16",
+    "description": "Deutsche Bank AG",
+    "originalDescription": "*Deutsche Bank AG F-FLUGHAF. DE",
+    "amount": 171.94,
+    "type": "debit",
+    "category": "Financial"
+  },
+  {
+    "date": "6/3/16",
+    "description": "Fedloanservicing Stdnt Loan",
+    "originalDescription": "FEDLOANSERVICING STDNT LOAN~ Future Amount: 691.84 ~ Tran: A",
+    "amount": 691.84,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "6/3/16",
+    "description": "Free Childre Direct",
+    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 2333.61 ~ Tran:",
+    "amount": 2333.61,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "6/2/16",
+    "description": "Bridge Fresh Market",
+    "originalDescription": "BRIDGE FRESH MA 68 JAY STREET BROOKLYN NY US",
+    "amount": 61.5,
+    "type": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/2/16",
+    "description": "Betterment Sec Transfer",
+    "originalDescription": "BETTERMENT SEC TRANSFER",
+    "amount": 277.32,
+    "type": "debit",
+    "category": "Transfer"
+  },
+  {
+    "date": "6/2/16",
+    "description": "Venmo",
+    "originalDescription": "VENMO-2 PAYMENT",
+    "amount": 7,
+    "type": "debit",
+    "category": "Transfer"
+  },
+  {
+    "date": "6/1/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 52.24,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/31/16",
+    "description": "American Express",
+    "originalDescription": "AMEX EPayment ACH PMT",
+    "amount": 4007.89,
+    "type": "debit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "5/31/16",
+    "description": "Huge Llc Dir",
+    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 2694.22 ~ Tran: DDIR",
+    "amount": 2694.22,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "5/31/16",
+    "description": "ACS Education Services",
+    "originalDescription": "ACS LOAN PYMT",
+    "amount": 116.05,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "5/31/16",
+    "description": "ACS Education Services",
+    "originalDescription": "ACS LOAN PYMT",
+    "amount": 63.64,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "5/30/16",
+    "description": "Hulu",
+    "originalDescription": "HLU*HULU 30609388-U HULU.COM/BILL CA US",
+    "amount": 7.99,
+    "type": "debit",
+    "category": "Movies & DVDs"
+  },
+  {
+    "date": "5/27/16",
+    "description": "Check 1186",
+    "originalDescription": "Check Paid #1186",
+    "amount": 150,
+    "type": "debit",
+    "category": "Check"
+  },
+  {
+    "date": "5/27/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 1.04,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/26/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 23.61,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/26/16",
+    "description": "Dam Realty Corp.",
+    "originalDescription": "ADAM REALTY CORP ONLINE PMT~ Future Amount: 2280 ~ Tran: ACH",
+    "amount": 2280,
+    "type": "debit",
+    "category": "Home Improvement"
+  },
+  {
+    "date": "5/26/16",
+    "description": "Hello Digit Bonus",
+    "originalDescription": "Hello Digit Inc. Bonus",
+    "amount": 0.3,
+    "type": "credit",
+    "category": "Bonus"
+  },
+  {
+    "date": "5/24/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 22.57,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/23/16",
+    "description": "Consolidated Edison",
+    "originalDescription": "CON ED OF NY INTELL CK",
+    "amount": 48.45,
+    "type": "debit",
+    "category": "Utilities"
+  },
+  {
+    "date": "5/23/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 22.57,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/20/16",
+    "description": "Free Childre Direct",
+    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 4133.96 ~ Tran:",
+    "amount": 4133.96,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "5/18/16",
+    "description": "Navi Ed Serv",
+    "originalDescription": "NAVI  ED SERV PP STUDNTLOAN",
+    "amount": 1053.33,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "5/17/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 21.43,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/16/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 0.47,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/13/16",
+    "description": "Huge Llc Dir",
+    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 2694.22 ~ Tran: DDIR",
+    "amount": 2694.22,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "5/12/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 27.67,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/11/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 75,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/10/16",
+    "description": "ATM Fee Refund",
+    "originalDescription": "ATM Fee Reimbursement",
+    "amount": 10,
+    "type": "credit",
+    "category": "ATM Fee"
+  },
+  {
+    "date": "5/10/16",
+    "description": "Interest Paid",
+    "originalDescription": "Interest Paid",
+    "amount": 0.55,
+    "type": "credit",
+    "category": "Interest Income"
+  },
+  {
+    "date": "5/9/16",
+    "description": "Betterment Sec Transfer",
+    "originalDescription": "BETTERMENT SEC TRANSFER",
+    "amount": 1000,
+    "type": "debit",
+    "category": "Transfer"
+  },
+  {
+    "date": "5/9/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 10.75,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/6/16",
+    "description": "Free Childre Direct",
+    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 2356.29 ~ Tran:",
+    "amount": 2356.29,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "5/6/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 77.91,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/6/16",
+    "description": "National Grid",
+    "originalDescription": "NATIONAL GRID NY UTILITYPAY~ Future Amount: 17.03 ~ Tran: AC",
+    "amount": 17.03,
+    "type": "debit",
+    "category": "Utilities"
+  },
+  {
+    "date": "5/6/16",
+    "description": "Apple",
+    "originalDescription": "APPLE TREE 312 COURT ST BROOKLYN NY US",
+    "amount": 102,
+    "type": "debit",
+    "category": "Electronics & Software"
+  },
+  {
+    "date": "5/6/16",
+    "description": "Banfield Pet Hospital",
+    "originalDescription": "BANFIELD WELLNESS PLAN 08668947927 OR US",
+    "amount": 28.95,
+    "type": "debit",
+    "category": "Veterinary"
+  },
+  {
+    "date": "5/5/16",
+    "description": "Capital One Crcardpmt",
+    "originalDescription": "CAPITAL ONE CRCARDPMT~ Future Amount: 143.35 ~ Tran: ACHDW",
+    "amount": 143.35,
+    "type": "debit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "5/4/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 77.91,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Betterment Sec Transfer",
+    "originalDescription": "BETTERMENT SEC TRANSFER",
+    "amount": 1000,
+    "type": "debit",
+    "category": "Transfer"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 119.85,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Betterment Sec Transfer",
+    "originalDescription": "BETTERMENT SEC TRANSFER",
+    "amount": 277.32,
+    "type": "debit",
+    "category": "Transfer"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Fedloanservicing Stdnt Loan",
+    "originalDescription": "FEDLOANSERVICING STDNT LOAN~ Future Amount: 691.84 ~ Tran: A",
+    "amount": 691.84,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "4/29/16",
+    "description": "ACS Education Services",
+    "originalDescription": "ACS LOAN PYMT",
+    "amount": 63.64,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "4/29/16",
+    "description": "Huge Llc Dir",
+    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 2694.22 ~ Tran: DDIR",
+    "amount": 2694.22,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "4/29/16",
+    "description": "ACS Education Services",
+    "originalDescription": "ACS LOAN PYMT",
+    "amount": 116.05,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "4/29/16",
+    "description": "Wscs Smith Laun 137 Smith Street",
+    "originalDescription": "WSCS SMITH LAUN 137 SMITH ST Brooklyn NY US",
+    "amount": 41.85,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/29/16",
+    "description": "Hulu",
+    "originalDescription": "HLU*HULU 30609388-U HULU.COM/BILL CA US",
+    "amount": 7.99,
+    "type": "debit",
+    "category": "Movies & DVDs"
+  },
+  {
+    "date": "4/29/16",
+    "description": "Peas N Pickles",
+    "originalDescription": "PEAS N PICKLES 45-55 WASHINGTON S BROOKLYN NY US",
+    "amount": 61.5,
+    "type": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "4/28/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 92.19,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/27/16",
+    "description": "Check 995009",
+    "originalDescription": "Check Paid #995009",
+    "amount": 2280,
+    "type": "debit",
+    "category": "Check"
+  },
+  {
+    "date": "4/27/16",
+    "description": "American Express",
+    "originalDescription": "AMEX EPayment ACH PMT",
+    "amount": 4100.7,
+    "type": "debit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "4/27/16",
+    "description": "Check 995010",
+    "originalDescription": "Check Paid #995010",
+    "amount": 320,
+    "type": "debit",
+    "category": "Check"
+  },
+  {
+    "date": "4/27/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 5.56,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/26/16",
+    "description": "Hello Digit Savings",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 230,
+    "type": "credit",
+    "category": "Income"
+  },
+  {
+    "date": "4/25/16",
+    "description": "Hello Digit Savings",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 310,
+    "type": "credit",
+    "category": "Income"
+  },
+  {
+    "date": "4/25/16",
+    "description": "Comenity Pay Ns",
+    "originalDescription": "COMENITY PAY NS WEB PYMT",
+    "amount": 74.16,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/24/16",
+    "description": "El Gllito 20 34th Avenue",
+    "originalDescription": "EL GLLITO CO-18 32-20 34TH AVE LONG ISLAND C NY US",
+    "amount": 82.25,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/23/16",
+    "description": "Wscs Smith Laun 137 Smith Street",
+    "originalDescription": "WSCS SMITH LAUN 137 SMITH ST Brooklyn NY US",
+    "amount": 61.85,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/23/16",
+    "description": "Pai Iso 305 Atlantic Avenue",
+    "originalDescription": "PAI ISO 305 ATLANTIC AVE BROOKLYN NY US",
+    "amount": 62.75,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/22/16",
+    "description": "Free Childre Direct",
+    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 4136.49 ~ Tran:",
+    "amount": 4136.49,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "4/22/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 31.39,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/22/16",
+    "description": "Consolidated Edison",
+    "originalDescription": "CON ED OF NY INTELL CK",
+    "amount": 54.32,
+    "type": "debit",
+    "category": "Utilities"
+  },
+  {
+    "date": "4/20/16",
+    "description": "Thomas Golden",
+    "originalDescription": "SQC*THOMAS GOLDENBE 04153753176 CA US",
+    "amount": 30,
+    "type": "debit",
+    "category": "Doctor"
+  },
+  {
+    "date": "4/20/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 76.84,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/19/16",
+    "description": "Venmo Cashout",
+    "originalDescription": "VENMO-0 CASHOUT",
+    "amount": 20,
+    "type": "credit",
+    "category": "Income"
+  },
+  {
+    "date": "4/19/16",
+    "description": "Transfer",
+    "originalDescription": "PAYPAL TRANSFER",
+    "amount": 331.31,
+    "type": "credit",
+    "category": "Transfer"
+  },
+  {
+    "date": "4/19/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 9,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/18/16",
+    "description": "Nys Dtf Pit",
+    "originalDescription": "NYS DTF PIT Tax Paymnt",
+    "amount": 899,
+    "type": "debit",
+    "category": "Taxes"
+  },
+  {
+    "date": "4/18/16",
+    "description": "Navi Ed Serv",
+    "originalDescription": "NAVI  ED SERV PP STUDNTLOAN",
+    "amount": 1053.33,
+    "type": "debit",
+    "category": "Student Loan"
+  },
+  {
+    "date": "4/18/16",
+    "description": "Robinhood Crfn Ach",
+    "originalDescription": "ROBINHOOD (CRFN) ACH",
+    "amount": 96.76,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/17/16",
+    "description": "Pai Iso 261 Flatbush Avenue",
+    "originalDescription": "PAI ISO 261 FLATBUSH AVE BROOKLYN NY US",
+    "amount": 60,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/17/16",
+    "description": "Pai Iso 261 Flatbush Avenue",
+    "originalDescription": "PAI ISO 261 FLATBUSH AVE BROOKLYN NY US",
+    "amount": 60,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/15/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 0.9,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/15/16",
+    "description": "Huge Llc Dir",
+    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 2694.22 ~ Tran: DDIR",
+    "amount": 2694.22,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "4/14/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 14,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/14/16",
+    "description": "Pai Iso 305 Atlantic Avenue",
+    "originalDescription": "PAI ISO 305 ATLANTIC AVE BROOKLYN NY US",
+    "amount": 22.75,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/13/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 22.54,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/12/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 43.97,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/11/16",
+    "description": "Transfer",
+    "originalDescription": "PAYPAL TRANSFER",
+    "amount": 85,
+    "type": "credit",
+    "category": "Transfer"
+  },
+  {
+    "date": "4/10/16",
+    "description": "Interest Paid",
+    "originalDescription": "Interest Paid",
+    "amount": 1.53,
+    "type": "credit",
+    "category": "Interest Income"
+  },
+  {
+    "date": "4/10/16",
+    "description": "ATM Fee Refund",
+    "originalDescription": "ATM Fee Reimbursement",
+    "amount": 10,
+    "type": "credit",
+    "category": "ATM Fee"
+  },
+  {
+    "date": "4/8/16",
+    "description": "Free Childre Direct",
+    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 4037.11 ~ Tran:",
+    "amount": 4037.11,
+    "type": "credit",
+    "category": "Paycheck"
+  },
+  {
+    "date": "4/8/16",
+    "description": "Wscs Smith Laun 137 Smith Street",
+    "originalDescription": "WSCS SMITH LAUN 137 SMITH ST Brooklyn NY US",
+    "amount": 41.85,
+    "type": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/8/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 1.28,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/7/16",
+    "description": "Hello",
+    "originalDescription": "Hello Digit Inc. Savings",
+    "amount": 74.47,
+    "type": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/6/16",
+    "description": "National Grid",
+    "originalDescription": "NATIONAL GRID NY UTILITYPAY~ Future Amount: 17.02 ~ Tran: AC",
+    "amount": 17.02,
+    "type": "debit",
+    "category": "Utilities"
+  }
+]
