@@ -67,7 +67,7 @@ Meteor.methods({
       case 'getTransactions':
         calledFunction = Meteor.call('getTransactions');
         break;
-      case 'getSepnding':
+      case 'getSpending':
         calledFunction = Meteor.call('getSpending')
         break;
       case 'getBalance':
