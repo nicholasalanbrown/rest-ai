@@ -6,6 +6,7 @@ import { DDPRateLimiter } from 'meteor/ddp-rate-limiter';
 
 import { Todos } from './todos.js';
 import { Lists } from '../lists/lists.js';
+import { History } from '../history/history.js';
 
 export const insert = new ValidatedMethod({
   name: 'todos.insert',
@@ -62,12 +63,13 @@ Meteor.methods({
   },
   webhook(response) {
     console.log(response);
+    History.insert(response);
     let calledFunction;
     switch (response.result.action) {
       case 'getTransactions':
         calledFunction = Meteor.call('getTransactions');
         break;
-      case 'getSpending':
+      case 'getSpendingf':
         calledFunction = Meteor.call('getSpending')
         break;
       case 'getBalance':
