@@ -54,13 +54,14 @@ Meteor.methods({
   getTransactions(start, end) {
     console.log(start, end);
     return {
-      speech: 'getTransactionsBetweenDates',
-      displayText: 'getTransactionsBetweenDates',
+      speech: 'getTransactions',
+      displayText: 'getTransactions',
       data: {},
       contextOut: [],
     };
   },
   webhook(response) {
+    console.log(response);
     let calledFunction;
     switch (response.result.action) {
       case 'getTransactions':
