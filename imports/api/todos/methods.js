@@ -32,33 +32,38 @@ export const insert = new ValidatedMethod({
   },
 });
 
-var something =
-
-{
-  "speech": "Barack Hussein Obama II is the 44th and current President of the United States.",
-  "displayText": "Barack Hussein Obama II is the 44th and current President of the United States, and the first African American to hold the office. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University   and Harvard Law School, where ",
-  "data": {},
-  "contextOut": [],
-  "source": "DuckDuckGo"
-}
-
-let getBalance = function (account) {
-  let response  =
-  {
-    "speech": "$500",
-    "displayText": "$500",
-    "data": {},
-    "contextOut": []
-  }
-  return response;
-}
-
 
 Meteor.methods({
-  webhook: function (response) {
+  getBalance() {
+    return {
+      speech: 'Your checking account balance is $500',
+      displayText: 'Your checking account balance is $500',
+      data: {},
+      contextOut: [],
+    };
+  },
+  getSpending(category, start, end) {
+    console.log(category, start, end);
+    return {
+      speech: 'getSpending',
+      displayText: 'getSpending',
+      data: {},
+      contextOut: [],
+    };
+  },
+  getTransactionsBetweenDates(start, end) {
+    console.log(start, end);
+    return {
+      speech: 'getTransactionsBetweenDates',
+      displayText: 'getTransactionsBetweenDates',
+      data: {},
+      contextOut: [],
+    };
+  },
+  webhook(response) {
     console.log(response);
-    return getBalance();
-  }
+    return;
+  },
 });
 
 export const setCheckedStatus = new ValidatedMethod({
