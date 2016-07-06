@@ -51,7 +51,7 @@ Meteor.methods({
       contextOut: [],
     };
   },
-  getTransactionsBetweenDates(start, end) {
+  getTransactions(start, end) {
     console.log(start, end);
     return {
       speech: 'getTransactionsBetweenDates',
@@ -61,8 +61,26 @@ Meteor.methods({
     };
   },
   webhook(response) {
-    console.log(response);
-    return;
+    let calledFunction;
+    switch (response.result.action) {
+      case 'getTransactions':
+        calledFunction = Meteor.call('getTransactions');
+        break;
+      case 'getSepnding':
+        calledFunction = Meteor.call('getSpending')
+        break;
+      case 'getBalance':
+        calledFunction = Meteor.call('getBalance');
+        break;
+      default:
+        calledFunction = {
+          speech: "Sorry, I couldn't find a function associated with that intent",
+          displayText: "Sorry, I couldn't find a function associated with that intent",
+          data: {},
+          contextOut: [],
+        };
+    }
+    return calledFunction;
   },
 });
 
