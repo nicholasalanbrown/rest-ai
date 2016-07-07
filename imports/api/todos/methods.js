@@ -1,5 +1,6 @@
 import { Meteor } from 'meteor/meteor';
 import { _ } from 'meteor/underscore';
+import moment from 'moment';
 import { ValidatedMethod } from 'meteor/mdg:validated-method';
 import { SimpleSchema } from 'meteor/aldeed:simple-schema';
 import { DDPRateLimiter } from 'meteor/ddp-rate-limiter';
@@ -52,8 +53,9 @@ Meteor.methods({
       contextOut: [],
     };
   },
-  getTransactions(start, end) {
-    console.log(start, end);
+  getTransactions(date) {
+    let convertedDate = moment(date).format();
+    console.log(convertedDate);
     return {
       speech: 'getTransactions',
       displayText: 'getTransactions',
@@ -67,7 +69,19 @@ Meteor.methods({
     let calledFunction;
     switch (response.result.action) {
       case 'getTransactions':
-        calledFunction = Meteor.call('getTransactions');
+        const dateExists = (response, result, paramaters, date, calendar) => {
+          const args = Array.prototype.slice.call(arguments, 1);
+          for (var i = 0; i < args.length; i++) {
+            if (!obj || !obj.hasOwnProperty(args[i])) {
+              return false;
+            }
+            obj = obj[args[i]];
+          }
+          return true;
+        }
+        if (dateExists) {
+          calledFunction = Meteor.call('getTransactions', result.paramaters.date.calendar);
+        }
         break;
       case 'getSpendingf':
         calledFunction = Meteor.call('getSpending')
