@@ -1,4 +1,5 @@
 import { Meteor } from 'meteor/meteor';
+import moment from 'moment';
 import { Lists } from '../../api/lists/lists.js';
 import { Todos } from '../../api/todos/todos.js';
 import { Transactions } from '../../api/transactions/transactions.js';
@@ -6,6 +7,8 @@ let mintData = require('./mint-data.json');
 
 // if the database is empty on server start, create some sample data.
 Meteor.startup(() => {
+  console.log('Testing moment');
+  console.log(moment().format());
   if (Lists.find().count() === 0) {
     const data = [
       {
